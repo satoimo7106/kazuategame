@@ -1,1 +1,1 @@
-# kazuategame
+# 数当てゲーム
